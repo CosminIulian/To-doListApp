@@ -3,7 +3,7 @@ Web application created in Laravel & MySQL
 
 ### Before Starting:
  Sets the connection to the database in your **.env** file<br>
- <img src= "https://i.imgur.com/amIA4v1.png" title="Sets the connection to the database" width= "300"/>
+ <img src= "https://i.imgur.com/r97bixK.png" title="Sets the connection to the database" width= "900"/>
  
 ## App Preview: 
 <p align= "center">
